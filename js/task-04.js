@@ -23,5 +23,4 @@ const incrementValue = () => {
 decrementBtnEl.addEventListener("click", decrementValue);
 incrementBtnEl.addEventListener("click", incrementValue);
 
-const counter = document.querySelector("#counter");
 console.log(counterValue);
